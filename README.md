@@ -2,7 +2,7 @@
 
 # About
 
-{{site.title}} Server is the open source Java EE Reference Implementation. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisi ut aliquip.
+{{site.title}} is a simple demo site. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisi ut aliquip.
 
 
 Lorem ipsum dolor sit amet again! Consectetur adipiscing elit, sed do eiusmod tempor ut labore et dolore aliqua. Ut enim ad minim veniam, quis exercitation ullamco laboris nisi.
@@ -23,18 +23,12 @@ Some content
 
 #### H4 Java Enterprise GlassFish
 
-The first table
-
 | File  | Description |
 | :---: | :--- |
 | [javax.mail.jar](https://github.com/javaee/javamail/releases/download/JAVAMAIL-1_5_6/javax.mail.jar)  | The JavaMail reference implementation, including the SMTP, IMAP, and POP3 protocol providers  |
 | [README.txt](https://bshannon.github.io/test/docs/README.txt) | Overview of the release |
 | [NOTES.txt](https://bshannon.github.io/test/docs/NOTES.txt)	|Additional notes about using JavaMail  |
 | [SSLNOTES.txt](https://bshannon.github.io/test/docs/SSLNOTES.txt)	|Notes on using SSL/TLS with JavaMail  |
-
-
-The second table
-
 
 |jar file|gropuId|artifactId|Description|
 | :---: | :---: |  :---: | :--- | 
@@ -45,7 +39,6 @@ The second table
 
 # To Do
 
-* Make my changes
 * Fix bug
 * Improve formatting
 * Make the headings bigger
