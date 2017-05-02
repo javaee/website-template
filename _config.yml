@@ -9,4 +9,5 @@ links:
   #mailinglist: https://java.net/projects/glassfish/lists/users/archive
   source: https://github.com/javaee/website-template
   license: LICENSE
+  issues_url:site.github.issues_url
 
