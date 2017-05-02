@@ -1,4 +1,4 @@
-# Simple GH-Pages how-to for Java EE related porjects.
+# Simple GH-Pages how-to for Java EE related projects.
 
 The [gh-pages](https://github.com/javaee/website-template/tree/gh-pages) branch of this repo contains all the initial assets for a simple website.  
 Check [https://javaee.github.io/website-template/](https://javaee.github.io/website-template/) to see how this sample web site looks like.
