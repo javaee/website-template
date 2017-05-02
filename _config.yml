@@ -1,0 +1,13 @@
+theme: jekyll-theme-architect
+
+title: [GlassFish]
+description: [Java EE Reference Implementation]
+
+show_downloads: false
+
+links:
+  download: https://glassfish.java.net/download.html
+  mailinglist: https://java.net/projects/glassfish/lists/users/archive
+  source: https://from-the-config
+  license: https://glassfish.java.net/license.html
+
