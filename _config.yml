@@ -7,8 +7,8 @@ description: [Generic Site Template for Java EE related projects]
 links:
   download: https://github.com/javaee/website-template/tree/gh-pages
   source: https://github.com/javaee/website-template
-  license: LICENSE
-  issues_url: site.github.issues_url # project's issue tracker
+  license: LICENSE.txt
+  #issues_url: site.github.issues_url # project's issue tracker
   #mailinglist:
   #javadocs:
   #docs:
