@@ -4,7 +4,7 @@ The gh-pages branch of this repo contains all the initial assets for a simple we
 
 * Clone your project repo
 
-**Make sure the master branch of your project contains both CONTRIBUTING.md** (see [here](https://github.com/javaee/website-template/blob/gh-pages/CONTRIBUTING.md)) and **LICENSE.md** (see [here](https://github.com/javaee/website-template/blob/gh-pages/LICENSE.md) for the standard GF GPVv2/CDDL/CPE).
+:warning: **Make sure the master branch of your project contains both CONTRIBUTING.md** (see [here](https://github.com/javaee/website-template/blob/gh-pages/CONTRIBUTING.md)) and **LICENSE.md** (see [here](https://github.com/javaee/website-template/blob/gh-pages/LICENSE.md) for the standard GF GPVv2/CDDL/CPE).
 
 * Create an orphan branch that will host your site
 
