@@ -12,7 +12,7 @@ The [gh-pages](https://github.com/javaee/website-template/tree/gh-pages) branch 
 git checkout --orphan gh-pages
 ```
 
-* You might want to delete unnecessary files (but do **keep CONTRIBUTING.MD and LICENSE.md in both branches!**)
+* You might want to delete unnecessary files. :warning: In any case, **CONTRIBUTING.MD and LICENSE.md shoud be in both branches**!
 
 ```bash
 git rm --cached -r stuff_to_delete
