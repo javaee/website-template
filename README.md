@@ -20,7 +20,7 @@ git checkout --orphan gh-pages
 git rm --cached -r stuff_to_delete
 ```
 
-* Grab the initial assets from this repo [_gh-pages_](https://github.com/javaee/website-template/tree/gh-pages) branch and push them to your repo _gh-pages_ branch.
+* Grab the initial assets from this repo [_gh-pages_](https://github.com/javaee/website-template/tree/gh-pages) branch and push them to your repo _gh-pages_ branch. Make sure to not overwrite CONTRIBUTING.mb and LICENSE.md!
 ```bash
 git add *
 git commit
