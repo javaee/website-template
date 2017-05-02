@@ -3,11 +3,15 @@ theme: jekyll-theme-architect
 title: [Web Site Template]
 description: [Generic Site Template for Java EE related projects]
 
-
+# sidebar links url
 links:
   download: https://github.com/javaee/website-template/tree/gh-pages
-  #mailinglist: https://java.net/projects/glassfish/lists/users/archive
   source: https://github.com/javaee/website-template
   license: LICENSE
-  issues_url:site.github.issues_url
+  issues_url: site.github.issues_url # project's issue tracker
+  #mailinglist:
+  #javadocs:
+  #docs:
+  #faq:
+  #mailinglist:
 
