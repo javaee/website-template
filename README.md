@@ -1,12 +1,12 @@
 # website-template
 
-The gh-pages branch of this repo contains all the initial assets for a simple website.
+The [gh-pages](https://github.com/javaee/website-template/tree/gh-pages) branch of this repo contains all the initial assets for a simple website.
 
 * Clone your project repo
 
 :warning: **Make sure the master branch of your project contains both CONTRIBUTING.md** (see [here](https://github.com/javaee/website-template/blob/gh-pages/CONTRIBUTING.md)) and **LICENSE.md** (see [here](https://github.com/javaee/website-template/blob/gh-pages/LICENSE.md) for the standard GF GPVv2/CDDL/CPE).
 
-* Create an orphan branch that will host your site
+* Create the orphan _gh-pages_ branch that will host your site
 
 ```bash
 git checkout --orphan gh-pages
@@ -18,7 +18,7 @@ git checkout --orphan gh-pages
 git rm --cached -r stuff_to_delete
 ```
 
-* Add and push the initial assets
+* Grab the initial assets from this repo [_gh-pages_](https://github.com/javaee/website-template/tree/gh-pages) branch and push them to your repo _gh-pages_ branch.
 ```bash
 git add *
 git commit
