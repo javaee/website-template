@@ -29,4 +29,4 @@ git push --set-upstream origin gh-pages
 
 * Configure your website, edit [README.md](https://github.com/javaee/website-template/blob/gh-pages/README.md) (the main page) and [_config.yml](https://github.com/javaee/website-template/blob/gh-pages/_config.yml) which contains project specific values (project name, repo URL...)
 
-* Test your site. Via the 'setting' tabs, you can get its URL and check the GH-Pages site build status.
+* Test your site. Via your project 'setting' tab, you can get its URL and check the GH-Pages site build status.
