@@ -27,4 +27,4 @@ included in Your Submissions. All Users, Oracle, and their
 sublicensees are responsible for any modifications they make to the 
 Submissions of others.*
 
-Copyright &copy; 2017 Oracle and/or its affiliates. All rights reserved
+Copyright &copy; 2017 Oracle and/or its affiliates. All rights reserved.
