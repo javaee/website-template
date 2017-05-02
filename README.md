@@ -56,5 +56,3 @@ Check the [contribute](contribute) page which is a full page.
 public @interface PATCH {
 }
 ```
-
-
