@@ -4,7 +4,7 @@ The [gh-pages](https://github.com/javaee/website-template/tree/gh-pages) branch 
 Check [https://javaee.github.io/website-template/](https://javaee.github.io/website-template/) to see how this sample site looks like.
 
 * Clone your project repo  
-:warning: **Make sure the master branch of your project contains both CONTRIBUTING.md** (see [here](https://github.com/javaee/website-template/blob/gh-pages/CONTRIBUTING.md)) and **LICENSE.md** (see [here](https://github.com/javaee/website-template/blob/gh-pages/LICENSE.md) for the standard GF GPLv2/CPE/CDDL). Do not change **CONTRIBUTING.md**.-; if you want to have specific contributing technical guidelines for your project, we recommend to have those in a separate file. 
+:warning: **Make sure the master branch of your project contains both CONTRIBUTING.md** (see [here](https://github.com/javaee/website-template/blob/gh-pages/CONTRIBUTING.md)) and **LICENSE.md** (see [here](https://github.com/javaee/website-template/blob/gh-pages/LICENSE.md) for the standard GF GPLv2/CPE/CDDL). Do not change **CONTRIBUTING.md**; if you want to have specific contributing technical guidelines for your project, we recommend to have those in a separate file. 
 
 * Create the orphan _gh-pages_ branch that will host your site
 ```bash
