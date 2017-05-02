@@ -3,7 +3,7 @@ theme: jekyll-theme-architect
 title: [Web Site Template]
 description: [Generic Site Template for Java EE related projects]
 
-enable_issuetracker_link: true #enable the sidebar issue tracker link 
+enable_issuetracker_link: false #enable the sidebar issue tracker link 
 
 # sidebar links url
 links:
