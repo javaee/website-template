@@ -23,18 +23,22 @@ Lorem ipsum dolor sit amet again! Consectetur adipiscing elit, sed do eiusmod te
 | mailapi.jar | com.sun.mail | mailapi | The JavaMail reference implementation with no protocol providers; use with one of the following providers |
 | smtp.jar | com.sun.mail | smtp | The SMTP protocol provider |
 
-# To Do
+# Some examples
 
-* Fix bug
-* Improve formatting
-* Make the headings bigger
+* Fix the bug
+* Test the fix
 * Push my commits to GitHub
   
-# Latest News
+1. France  
+1.1 Paris  
+2.1 Nice  
+2. USA  
+2.1 New York  
+2.2 San Francisco 
 
-## April 1st, 2017 - Java.net migration! ##
+> This is a multi line block quote  
+and this is the end. 
 
-All the {{site.title}} assets has been moved from Java.net to a new location.
 
 ## April 10th, 2017 - JAX-RS PATCH support (client API) ##
 
