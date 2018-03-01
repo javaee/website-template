@@ -240,3 +240,21 @@ blockquote {
   color: FF0000;
   width: 900px;
 }
+
+#archive-footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+#archive-footer {
+    background: #0070FF;
+    line-height: 2;
+    text-align: center;
+    color: #042E64;
+    font-size: 18px;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-shadow: 0 1px 0 #84BAFF;
+    box-shadow: 0 0 15px #00214B
+}
