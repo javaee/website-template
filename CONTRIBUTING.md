@@ -1,7 +1,6 @@
 ---
 
-### This project is now part of the EE4J initiative. This repository is frozen as all activities will now happen in the corresponding Eclipse repository [link to repo]. See here for the overall [EE4J transition status](https://www.eclipse.org/ee4j/status.php).
+#### :warning:This project is now part of the EE4J initiative. This repository has been archived as all activities are now happening in the [corresponding Eclipse repository](http://link_to_repo). See [here](https://www.eclipse.org/ee4j/status.php) for the overall EE4J transition status. 
 
 ---
 
-Copyright &copy; 2017 Oracle and/or its affiliates. All rights reserved
